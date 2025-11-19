@@ -1,4 +1,4 @@
-##🎨 Gallerie d’art
+##🎨 Galleria d’art
 
 A Virtual Art Gallery Tour Experience
 
