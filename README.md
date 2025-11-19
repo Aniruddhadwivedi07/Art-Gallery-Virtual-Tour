@@ -1,10 +1,10 @@
-🎨 <h1>Galleria d’art<h1>
+🎨Galleria d’art
 
 A Virtual Art Gallery Tour Experience
 
 Gallerie d’art is an immersive virtual art gallery website designed to bring the museum experience directly to your browser. Explore curated collections, view high-quality artworks, and navigate through a beautifully crafted digital gallery — all from the comfort of your screen.
 
-#🌟 Features
+🌟 Features
 
 🖼️ Virtual Gallery Tour
 Smooth navigation through curated halls and art pieces.
@@ -24,7 +24,7 @@ Works seamlessly on desktop, tablet, and mobile.
 ⚡ Fast & Lightweight
 Minimal dependencies, optimized images, and efficient animations.
 
-#🧰 Tech Stack
+🧰 Tech Stack
 
 Frontend: HTML5, CSS3, JavaScript
 
